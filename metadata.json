@@ -1,0 +1,6 @@
+{
+  "name": "Julikrise 1914 – Stoppt die Kettenreaktion!",
+  "description": "Interaktives geschichtsdidaktisches Escape-Game zum Ausbruch des Ersten Weltkriegs. Entschlüssle 5 historische Geheimtelegramme der Großmächte im Juli 1914.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
